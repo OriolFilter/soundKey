@@ -1,0 +1,10 @@
+decorator==4.4.2
+EasyProcess==0.2.10
+entrypoint2==0.2
+keyboard==0.13.5
+playsound==1.2.2
+PyGetWindow==0.0.8
+pyHook==1.5.1
+PyRect==0.1.4
+pyscreenshot==1.0
+pywin32==227
